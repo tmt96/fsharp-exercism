@@ -1,0 +1,21 @@
+# F# && .Net
+*/bin/
+*/obj
+*/BenchmarkDotNet*
+
+# VSCode
+.ionide
+.vscode
+
+# exercism
+*/.exercism
+
+# macOS
+# General
+.DS_Store
+.AppleDouble
+.LSOverride
+# Icon must end with two \r
+Icon
+# Thumbnails
+._*
